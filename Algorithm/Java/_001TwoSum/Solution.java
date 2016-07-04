@@ -1,4 +1,4 @@
-package _1TwoSum;
+package _001TwoSum;
 
 public class Solution {
 	public int[] twoSum(int[] nums, int target) {

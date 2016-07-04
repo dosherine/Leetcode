@@ -1,4 +1,4 @@
-package _3LongestSubstringWithoutRepeatingCharacters;
+package _003LongestSubstringWithoutRepeatingCharacters;
 
 import java.util.ArrayList;
 import java.util.Scanner;
